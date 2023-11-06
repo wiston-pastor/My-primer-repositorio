@@ -4,4 +4,5 @@ const suma = (a, b) => {
 
 let Lasuma = suma(1, 22)
 
+
 console.log(Lasuma)
